@@ -7,6 +7,6 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>Hello World Flipkar sales will start soon!</h2>
+<h2>Progress is impossible without change, and those who cannot change their minds cannot change anything </h2>
 </body>
 </html>
